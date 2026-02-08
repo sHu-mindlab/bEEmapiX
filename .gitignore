@@ -1,0 +1,5 @@
+config.h
+.vscode/
+*.o
+*.elf
+*.bin
