@@ -58,7 +58,7 @@
 
 char WIFI_SSID[33] = "Hotspot_10";          // Текущо SSID (може да се смени с SET WIFI)
 char WIFI_PASSWORD[65] = "dedaznam";   // Текуща парола
-char SERVER_URL[129] = "https://koshx-hub-production.up.railway.app/api/telemetry";        // URL за POST заявките
+char SERVER_URL[129] = "https://koshx-hub-production.up.railway.app/api/telemetry";        //// URL за POST заявките
 
 #define ONE_WIRE_BUS 8      // GPIO пин за OneWire шината
 #define ROWS 3              // Брой редове в сензорната решетка
